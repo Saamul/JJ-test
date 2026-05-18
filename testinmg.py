@@ -22,4 +22,4 @@ def scraping_met():
     print(data)
     return(data)
 
-scraping()
+scraping_met()
